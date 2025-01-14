@@ -15,3 +15,7 @@ const jojoCharacter = {
   stand: Stand.HIEROPHANT_GREEN',
 }
 ```
+
+- [x] Read the assignment
+- [x] Go back to this file 
+- [ ] To mention Kakyoin again
